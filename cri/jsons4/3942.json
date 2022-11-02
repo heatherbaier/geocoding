@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WWF7+J64",
+               "short_name" : "WWF7+J64",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Calle 18",
+               "short_name" : "C. 18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Johnny Ramírez",
+               "short_name" : "Johnny Ramírez",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San José",
+               "short_name" : "San José",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San José",
+               "short_name" : "San José",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WWF7+J64, C. 18, Johnny Ramírez, San José, Costa Rica",
+         "geometry" : {
+            "location" : {
+               "lat" : 9.924004699999999,
+               "lng" : -84.08692859999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.925461230291504,
+                  "lng" : -84.08593111970849
+               },
+               "southwest" : {
+                  "lat" : 9.922763269708499,
+                  "lng" : -84.0886290802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGafJQETjoI8Rj6-3_O2qKk8",
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      }
+   ],
+   "status" : "OK"
+}

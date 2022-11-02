@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WWQ4+37F",
+               "short_name" : "WWQ4+37F",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Calle 34",
+               "short_name" : "Calle 34",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pitahaya",
+               "short_name" : "Pitahaya",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San José",
+               "short_name" : "San José",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San José",
+               "short_name" : "San José",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WWQ4+37F, Calle 34, Pitahaya, San José, Costa Rica",
+         "geometry" : {
+            "location" : {
+               "lat" : 9.937683399999999,
+               "lng" : -84.0943276
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.938966530291504,
+                  "lng" : -84.09299121970848
+               },
+               "southwest" : {
+                  "lat" : 9.936268569708499,
+                  "lng" : -84.0956891802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE32bOFbjoI8Ro6XyIjkIRFw",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

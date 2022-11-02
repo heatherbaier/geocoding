@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alajuelita",
+               "short_name" : "Alajuelita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San José",
+               "short_name" : "San José",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Concepción Arriba de, San José, Alajuelita, Costa Rica",
+         "geometry" : {
+            "location" : {
+               "lat" : 9.889394099999999,
+               "lng" : -84.08736060000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.890971230291502,
+                  "lng" : -84.08609746970851
+               },
+               "southwest" : {
+                  "lat" : 9.888273269708497,
+                  "lng" : -84.08879543029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSTwcgtnioI8RrQgOXTFpYwM",
+         "plus_code" : {
+            "compound_code" : "VWQ7+Q3 San José Province, Alajuelita, Costa Rica",
+            "global_code" : "66XQVWQ7+Q3"
+         },
+         "types" : [
+            "church",
+            "establishment",
+            "place_of_worship",
+            "point_of_interest",
+            "school"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

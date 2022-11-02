@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liceo de San Jose",
+               "short_name" : "Liceo de San Jose",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Avenida 15",
+               "short_name" : "Av. 15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Calle 28",
+               "short_name" : "C. 28",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barrio México",
+               "short_name" : "Barrio México",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San José",
+               "short_name" : "San José",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San José",
+               "short_name" : "San José",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10102",
+               "short_name" : "10102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Liceo de San Jose, Av. 15, Barrio México, San José, 10102, Costa Rica",
+         "geometry" : {
+            "location" : {
+               "lat" : 9.9428535,
+               "lng" : -84.09032979999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.943699380291502,
+                  "lng" : -84.08936956970848
+               },
+               "southwest" : {
+                  "lat" : 9.941001419708497,
+                  "lng" : -84.09206753029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvZjTJqbkoI8RvKDvDEO2Upc",
+         "plus_code" : {
+            "compound_code" : "WWV5+4V San José Province, San José, Costa Rica",
+            "global_code" : "66XQWWV5+4V"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      }
+   ],
+   "status" : "OK"
+}
